@@ -5,3 +5,4 @@ Projeto de criação de um game no estilo endless runner, ultilizando biblioteca
 https://editor.p5js.org/matheus-2000/sketches/gHNaKiMZT
 
 # Link do projeto hospedado no github
+https://matheus-2000.github.io/imersao-game-dev-endless-runner-com-p5.js/  - Ainda não funcional
