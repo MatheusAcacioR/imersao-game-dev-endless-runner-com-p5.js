@@ -64,3 +64,11 @@ class Jogo {
   }
   }
 }
+
+document.querySelector('body').addEventListener('touchstart', f);
+
+function f(ev) {
+  console.log(ev.touches);
+  personagem.pula();
+  somDoPulo.play();
+}
